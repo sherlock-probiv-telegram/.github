@@ -4,7 +4,7 @@
 
 Если вы искали рабочую ссылку на **шерлок тг** или лучший **бот для пробива**, вы попали на официальный узел интеграции сервисов Sherlock и Sonar.
 
-👉 **[ЗАПУСТИТЬ БОТ ШЕРЛОК (2 БЕСПЛАТНЫХ ЗАПРОСА)](https://t.me/aoiaosheerlobot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**
+👉 **[ЗАПУСТИТЬ БОТ ШЕРЛОК (2 БЕСПЛАТНЫХ ЗАПРОСА)](https://t.me/pfewpfwpbot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**
 👉 **[ГЛУБОКИЙ ПРОБИВ: СОНАР (22.5 МЛРД ЗАПИСЕЙ)](https://t.me/sonarsearcherbot)**
 
 ---
@@ -30,7 +30,7 @@
 
 ## 🛠 Инструкция: Как пользоваться Шерлоком в ТГ?
 
-1.  Перейдите по ссылке в официальный бот: **[Sherlock](https://t.me/aoiaosheerlobot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**.
+1.  Перейдите по ссылке в официальный бот: **[Sherlock](https://t.me/pfewpfwpbot?start=_ref_MA3D1Y3qg_kDLUd9wcY)**.
 2.  Нажмите "Начать" и выберите тип пробива (Номер, Юз, Фото).
 3.  Для получения глубоких данных из баз утечек используйте **[Sonar](https://t.me/sonarsearcherbot)**.
 
